@@ -1,0 +1,22 @@
+.card {    
+    border-radius: 2px;
+    height: 325px;
+    margin: 10px;
+    position: relative;
+    width: 325px;
+    text-align: left;
+    object-fit: fill;
+  }
+  
+  .card > .img {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    object-fit: fill;
+  
+  }
+  .card > .img > img {
+    width: 100%;
+    height: 100%;
+  }
