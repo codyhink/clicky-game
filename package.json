@@ -1,0 +1,20 @@
+{
+  "name": "clicky-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "yarn": "^1.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/codyhink/clicky-game.git",
+  "author": "rockchalk1013 <codyhink@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyhink/clicky-game/issues"
+  },
+  "homepage": "https://github.com/codyhink/clicky-game#readme"
+}
