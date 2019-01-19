@@ -2,10 +2,11 @@
     width: 100%;
     text-align: center;
     font-size: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     color: rgba(107, 233, 35, 0.993);
-    background-image: url(https://www2.baylor.edu/wp-content/uploads/2016/10/big12-oct16.jpg);
+    background-image: url(http://images.performgroup.com/di/library/sporting_news/d1/2f/big-12-072116-ftrjpg_5d6le8z5zasg1xzlmdmcsidmi.jpg?t=247243438&w=960&quality=70);
     background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: 100%;
+    background-size: 45%;
+    background-position: center;
+    ;
   }
